@@ -14,7 +14,7 @@ namespace WatcherAPI
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySQL("server=localhost;UserID=root;Password=root;database=prod;");
+            optionsBuilder.UseMySQL("server=92.53.127.181;UserID=root;Password=root;database=prod;");
         }
     }
 }
