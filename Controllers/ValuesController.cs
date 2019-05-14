@@ -16,7 +16,7 @@ namespace WatcherAPI.Controllers
         {
             using (ApplicationContext db = new ApplicationContext())
             {
-                db.Database.EnsureCreated();
+                //db.Database.EnsureCreated();
 
                 Event ev = new Event { description = "12", latitude = "12", longitude = "12", name = "12", type = 0 };
                 db.Events.Add(ev);
