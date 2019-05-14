@@ -18,6 +18,10 @@ namespace WatcherAPI.Controllers
             {
                 db.Database.EnsureCreated();
 
+                Event ev = new Event { description = "12", latitude = "12", longitude = "12", name = "12", type = 0 };
+                db.Events.Add(ev);
+                db.SaveChanges();
+
                 var a = db.Events.ToList();
                 
                 return  a;
@@ -39,16 +43,6 @@ namespace WatcherAPI.Controllers
 
         }
 
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
 
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
     }
 }
