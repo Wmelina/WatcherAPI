@@ -1,0 +1,14 @@
+C:\Users\psych\Desktop\WatcherAPI\bin\Debug\netcoreapp2.1\WatcherAPI.deps.json
+C:\Users\psych\Desktop\WatcherAPI\bin\Debug\netcoreapp2.1\WatcherAPI.runtimeconfig.json
+C:\Users\psych\Desktop\WatcherAPI\bin\Debug\netcoreapp2.1\WatcherAPI.runtimeconfig.dev.json
+C:\Users\psych\Desktop\WatcherAPI\bin\Debug\netcoreapp2.1\WatcherAPI.dll
+C:\Users\psych\Desktop\WatcherAPI\obj\Debug\netcoreapp2.1\WatcherAPI.csprojAssemblyReference.cache
+C:\Users\psych\Desktop\WatcherAPI\obj\Debug\netcoreapp2.1\WatcherAPI.csproj.CoreCompileInputs.cache
+C:\Users\psych\Desktop\WatcherAPI\obj\Debug\netcoreapp2.1\WatcherAPI.RazorAssemblyInfo.cache
+C:\Users\psych\Desktop\WatcherAPI\obj\Debug\netcoreapp2.1\WatcherAPI.RazorAssemblyInfo.cs
+C:\Users\psych\Desktop\WatcherAPI\obj\Debug\netcoreapp2.1\WatcherAPI.AssemblyInfoInputs.cache
+C:\Users\psych\Desktop\WatcherAPI\obj\Debug\netcoreapp2.1\WatcherAPI.AssemblyInfo.cs
+C:\Users\psych\Desktop\WatcherAPI\obj\Debug\netcoreapp2.1\WatcherAPI.RazorTargetAssemblyInfo.cache
+C:\Users\psych\Desktop\WatcherAPI\bin\Debug\netcoreapp2.1\WatcherAPI.pdb
+C:\Users\psych\Desktop\WatcherAPI\obj\Debug\netcoreapp2.1\WatcherAPI.dll
+C:\Users\psych\Desktop\WatcherAPI\obj\Debug\netcoreapp2.1\WatcherAPI.pdb
